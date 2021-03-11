@@ -1,0 +1,142 @@
+{
+  "id": "2411312",
+  "name": "emof2.0",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "485851",
+      "name": "4-",
+      "font_class": "4",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "4786009",
+      "name": "1",
+      "font_class": "icon-test",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "4786016",
+      "name": "2",
+      "font_class": "icon-test1",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "4786017",
+      "name": "3",
+      "font_class": "icon-test2",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "6977900",
+      "name": "资料",
+      "font_class": "ziliao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7127389",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7404291",
+      "name": "检查项",
+      "font_class": "jianchaxiang",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "7933285",
+      "name": "喇叭",
+      "font_class": "laba",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "9512561",
+      "name": "旗帜",
+      "font_class": "flag-fill",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "9874485",
+      "name": "KHCFDC_更多",
+      "font_class": "gengduo",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "11463948",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "14656441",
+      "name": "项目路演",
+      "font_class": "xiangmuluyan",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "15388516",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "15685398",
+      "name": "新闻",
+      "font_class": "xinwen",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "16357148",
+      "name": "统计",
+      "font_class": "tongji1",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "17904557",
+      "name": "手指 (1)",
+      "font_class": "shouzhi1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "18489963",
+      "name": "记录-fill",
+      "font_class": "jilu-fill",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "19685391",
+      "name": "时间",
+      "font_class": "time-circle",
+      "unicode": "eb5d",
+      "unicode_decimal": 60253
+    },
+    {
+      "icon_id": "2376690",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
